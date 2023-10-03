@@ -42,7 +42,7 @@
             .avatar {
                 width: 130px;
                 height: 130px;
-                background: url('/assets/foto-perfil.png');
+                background: url('../assets/foto-perfil.png');
                 border-radius: 50%;
             }
         }
@@ -72,13 +72,13 @@
             }
 
             .icon-phone {
-                background: url('/assets/icon-phone.svg') no-repeat;  
+                background: url('../assets/icon-phone.svg') no-repeat;  
                 margin-top: 15px;
                 margin-bottom: 8px;
             }
 
             .icon-mail {
-                background: url('/assets/icon-mail.svg') no-repeat;
+                background: url('../assets/icon-mail.svg') no-repeat;
             }
         }
     }
