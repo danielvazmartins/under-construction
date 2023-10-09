@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs>
+    <clipPath id="clip-Assets">
+      <rect width="1280" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Assets" clip-path="url(#clip-Assets)">
+    <rect width="1280" height="800" fill="#fff"/>
+    <text id="favicon" transform="translate(115 100)" fill="#ef8a40" font-size="32" font-family="Apple-Chancery, Apple Chancery"><tspan x="0" y="0">D</tspan></text>
+  </g>
+</svg>
